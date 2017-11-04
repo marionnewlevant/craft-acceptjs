@@ -1,6 +1,6 @@
 # Authorize.Net / Accept.js Craft Commerce Gateway
 
-Craft Commerce gateway for using Accept.js with Authorize.net. [Documented here](https://developer.authorize.net/api/reference/features/acceptjs.html_)
+Craft Commerce gateway for using Accept.js with Authorize.net. [Documented here](https://developer.authorize.net/api/reference/features/acceptjs.html)
 
 ## Installation and Configuration
 
